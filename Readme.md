@@ -15,9 +15,7 @@ Here is an example of the directory structure  a single component:
 ```
 half_adder/
 ├── half_adder.v        # Verilog source code
-├── half_adder_tb.v     # Verilog testbench
 ├── half_adder.png       # Schematic diagram of the circuit
-├── truth_table.md      # Truth table for the component
-└── waveform.png        # Resulting waveform from the testbench simulation
+├── truth_table.md      # Truth table for the component.
 ```
 
