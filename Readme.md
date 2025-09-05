@@ -7,6 +7,7 @@ This repository contains various Verilog codes from half adders to flipflops fro
 ## Directory Structure
 Each component, like a half adder, has its own dedicated folder. Inside that folder, you will find all the related files for that specific component.
 
+//test bench is not included, its a waste of time!
 
 Here is an example of the directory structure  a single component:
 
